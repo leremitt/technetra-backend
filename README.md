@@ -26,7 +26,9 @@ Drizzle migrate:
 
 ```bash
 pnpm run generate
+pnpm run migrate
 ```
+
 
 Run the query to create test user:
 
